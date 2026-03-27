@@ -19,16 +19,33 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shyxmmmmmm&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shyxmmmmmm&show_icons=true&theme=tokyonight&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyxmmmmmm&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shyxmmmmmm&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🔥 Projects
-- Student Form Management System  
-- Udemy Clone  
-- Greenden Website  
-- Restaurant Website  
+- Student Form Management System → [Code](https://github.com/shyxmmmmmm)  
+- Udemy Clone → [Code](https://github.com/shyxmmmmmm)  
+- Greenden Website → [Code](https://github.com/shyxmmmmmm)  
+- Restaurant Website → [Code](https://github.com/shyxmmmmmm)  
+
+👉 More projects: https://github.com/shyxmmmmmm?tab=repositories
+
+---
+
+## 📜 Certifications
+- Accenture SQL  
+- Accenture Python  
+- Accenture AWS  
 
 ---
 
