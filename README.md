@@ -26,10 +26,11 @@
 ---
 
 ## 🔥 Projects
-- Student Form Management System → [Code](https://github.com/shyxmmmmmm)  
-- Udemy Clone → [Code](https://github.com/shyxmmmmmm)  
-- Greenden Website → [Code](https://github.com/shyxmmmmmm)  
-- Restaurant Website → [Code](https://github.com/shyxmmmmmm)  
+- Student Form Management System → [Code](https://github.com/Shyxmmmmmm/simple-Registration-form.git)
+- Nosta -> [code](https://github.com/Shyxmmmmmm/nostra-project.git)
+- Udemy Clone → [Code](https://github.com/Shyxmmmmmm/udemy-react.git)  
+- Greenden Website → [Code](https://github.com/Shyxmmmmmm/Greenden-tailwind.git)  
+- Restaurant Website → [Code](https://github.com/nikethaapa/week6-project.git)  
 
 👉 More projects: https://github.com/shyxmmmmmm?tab=repositories
 
