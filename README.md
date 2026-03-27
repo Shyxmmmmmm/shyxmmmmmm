@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Shyam Kumar A S</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;MERN+Stack+Learner;Future+Full+Stack+Engineer&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;MERN+Stack+Learner;Full+Stack+Engineer&center=true&width=500&height=50">
 </p>
 
 
