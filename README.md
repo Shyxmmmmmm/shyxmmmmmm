@@ -33,4 +33,4 @@
 ---
 
 ## 🌐 Connect
-- LinkedIn: add your link here
+- LinkedIn: https://www.linkedin.com/in/shyam-a-s-6460a3301/
