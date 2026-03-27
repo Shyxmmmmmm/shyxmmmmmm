@@ -1,4 +1,4 @@
-z<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Shyam%20Kumar%20A%20S&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20|%20MERN%20Stack%20Learner&descAlignY=55&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Shyam%20Kumar%20A%20S&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20|%20MERN%20Stack%20Learner&descAlignY=55&descAlign=50" />
 
 <h1 align="center">Hi 👋, I'm Shyam Kumar A S</h1>
 
@@ -44,10 +44,10 @@ z<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2
 ---
 
 ## 🔥 Projects
-- Student Form Management System → [Code](https://github.com/Shyxmmmmmm/simple-Registration-form.git) | [Live](https://shyxmmmmmm.github.io/simple-Registration-form) 
+- Student Form Management System → [Code](https://github.com/Shyxmmmmmm/simple-Registration-form.git) | [Live](https://shyxmmmmmm.github.io/simple-Registration-form/) 
 - Nostra Project → [Code](https://github.com/Shyxmmmmmm/nostra-project.git)  | [Live](https://shyxmmmmmm.github.io/nostra-project/)
 - Udemy Clone → [Code](https://github.com/Shyxmmmmmm/udemy-react.git)  | [Live](http://udemy-react-7vm3.vercel.app/)
-- Greenden Website → [Code](https://github.com/Shyxmmmmmm/Greenden-tailwind.git)  | [Live](https://shyxmmmmmm.github.io/Greenden-tailwind)
+- Greenden Website → [Code](https://github.com/Shyxmmmmmm/Greenden-tailwind.git)  | [Live](https://shyxmmmmmm.github.io/Greenden-tailwind/)
 - Restaurant Website → [Code](https://github.com/nikethaapa/week6-project.git)  | [Live](https://nikethaapa.github.io/week6-project/)
 
 👉 More projects: https://github.com/shyxmmmmmm?tab=repositories
