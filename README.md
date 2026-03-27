@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shyam Kumar</h1>
+<h1 align="center">Hi 👋, I'm Shyam Kumar A S</h1>
 <h3 align="center">Frontend Developer | MERN Stack Learner</h3>
 
 ---
