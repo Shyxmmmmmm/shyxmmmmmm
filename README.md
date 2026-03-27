@@ -1,9 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Shyam%20Kumar%20A%20S&fontSize=40&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Shyam%20Kumar%20A%20S&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20|%20MERN%20Stack%20Learner&descAlignY=55&descAlign=50" />
 
 <h1 align="center">Hi 👋, I'm Shyam Kumar A S</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;MERN+Stack+Learner;Future+Full+Stack+Engineer&center=true&width=500&height=50">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shyxmmmmmm&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -59,13 +63,9 @@
 
 ## 🌐 Connect
 <p align="left">
-  <a href="https://www.linkedin.com/in/shyam-a-s-6460a3301/" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" />
+  <a href="https://www.linkedin.com/in/shyam-a-s-6460a3301/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="35" />
   </a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shyxmmmmmm&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+- 🔗 LinkedIn: https://www.linkedin.com/in/shyam-a-s-6460a3301/
