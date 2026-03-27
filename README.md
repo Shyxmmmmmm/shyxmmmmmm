@@ -6,8 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;MERN+Stack+Learner;Full+Stack+Engineer&center=true&width=500&height=50">
 </p>
 
-
-
 ---
 
 ## 🧑‍💻 About Me
@@ -31,6 +29,12 @@
 
 ---
 
+## 🏆 Coding Profiles
+- 💡 LeetCode: https://leetcode.com/u/shyaammmmmm/  
+- 📘 GeeksforGeeks: https://www.geeksforgeeks.org/profile/shyxmmmmmm  
+
+---
+
 ## 📊 GitHub Activity
 
 <p align="center">
@@ -42,11 +46,11 @@
 ---
 
 ## 🔥 Projects
-- Student Form Management System → [Code](https://github.com/Shyxmmmmmm/simple-Registration-form.git) | [Live](https://shyxmmmmmm.github.io/simple-Registration-form/) 
-- Nostra Project → [Code](https://github.com/Shyxmmmmmm/nostra-project.git)  | [Live](https://shyxmmmmmm.github.io/nostra-project/)
-- Udemy Clone → [Code](https://github.com/Shyxmmmmmm/udemy-react.git)  | [Live](http://udemy-react-7vm3.vercel.app/)
-- Greenden Website → [Code](https://github.com/Shyxmmmmmm/Greenden-tailwind.git)  | [Live](https://shyxmmmmmm.github.io/Greenden-tailwind/)
-- Restaurant Website → [Code](https://github.com/nikethaapa/week6-project.git)  | [Live](https://nikethaapa.github.io/week6-project/)
+- Student Form Management System → [Code](https://github.com/Shyxmmmmmm/simple-Registration-form.git) | [Live](https://shyxmmmmmm.github.io/simple-Registration-form/)  
+- Nostra Project → [Code](https://github.com/Shyxmmmmmm/nostra-project.git) | [Live](https://shyxmmmmmm.github.io/nostra-project/)  
+- Udemy Clone → [Code](https://github.com/Shyxmmmmmm/udemy-react.git) | [Live](http://udemy-react-7vm3.vercel.app/)  
+- Greenden Website → [Code](https://github.com/Shyxmmmmmm/Greenden-tailwind.git) | [Live](https://shyxmmmmmm.github.io/Greenden-tailwind/)  
+- Restaurant Website → [Code](https://github.com/nikethaapa/week6-project.git) | [Live](https://nikethaapa.github.io/week6-project/)  
 
 👉 More projects: https://github.com/shyxmmmmmm?tab=repositories
 
