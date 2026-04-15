@@ -48,9 +48,10 @@
 ## 🔥 Projects
 - Student Form Management System → [Code](https://github.com/Shyxmmmmmm/simple-Registration-form.git) | [Live](https://shyxmmmmmm.github.io/simple-Registration-form/)  
 - Nostra Project → [Code](https://github.com/Shyxmmmmmm/nostra-project.git) | [Live](https://shyxmmmmmm.github.io/nostra-project/)  
-- Udemy Clone → [Code](https://github.com/Shyxmmmmmm/udemy-react.git) | [Live](http://udemy-react-7vm3.vercel.app/)  
+- student-favourite-list → [Code](https://github.com/Shyxmmmmmm/student-favourite-list.git) | [Live](https://student-favourite-list-three.vercel.app/)  
 - Greenden Website → [Code](https://github.com/Shyxmmmmmm/Greenden-tailwind.git) | [Live](https://shyxmmmmmm.github.io/Greenden-tailwind/)  
 - Restaurant Website → [Code](https://github.com/nikethaapa/week6-project.git) | [Live](https://nikethaapa.github.io/week6-project/)  
+- weather-app → [Code](https://github.com/Shyxmmmmmm/weather-app.git) | [Live](https://weather-app-eight-mu-14.vercel.app/)
 
 👉 More projects: https://github.com/shyxmmmmmm?tab=repositories
 
