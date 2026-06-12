@@ -98,52 +98,83 @@
 | 🛒 Nostra | [Live](https://shyxmmmmmm.github.io/nostra-project/) | [Repo](https://github.com/Shyxmmmmmm/nostra-project.git) |
 | 📋 Student Favourite List | [Live](https://student-favourite-list-three.vercel.app/) | [Repo](https://github.com/Shyxmmmmmm/student-favourite-list.git) |
 ---
-
-## 🏆 Certifications
+## 🏆 Featured Certifications
 
 <table>
 <tr>
-<td valign="top">
 
-- AWS Cloud Fundamentals
-- AWS Cloud Practitioner
-- AWS Solutions Architecture
-- Full Stack Development Bootcamp
-- Java ATCI Stream
-- Python Fluency
-
+<td align="center">
+<a href="https://github.com/Shyxmmmmmm/shyxmmmmmm/blob/main/certificates/cloud%20partitioner%20certificate.pdf">
+<img width="80" src="https://img.icons8.com/color/240/amazon-web-services.png"/>
+<br><b>AWS Cloud Practitioner</b>
+</a>
 </td>
 
-<td valign="top">
-
-- SQL Fluency
-- DevOps Fluency
-- Generative AI
-- Prompt Engineering
-- Microsoft Excel
-- Cloud Fundamentals
-
+<td align="center">
+<a href="https://github.com/Shyxmmmmmm/shyxmmmmmm/blob/main/certificates/AWS%20CERTIFICATE.pdf">
+<img width="80" src="https://img.icons8.com/color/240/amazon-web-services.png"/>
+<br><b>AWS Solutions Architecture</b>
+</a>
 </td>
+
+<td align="center">
+<a href="https://github.com/Shyxmmmmmm/shyxmmmmmm/blob/main/certificates/Java%20ATCI.pdf">
+<img width="80" src="https://img.icons8.com/color/240/java-coffee-cup-logo.png"/>
+<br><b>Java ATCI</b>
+</a>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<a href="https://github.com/Shyxmmmmmm/shyxmmmmmm/blob/main/certificates/python%20Fluency.pdf">
+<img width="80" src="https://img.icons8.com/color/240/python.png"/>
+<br><b>Python Fluency</b>
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/Shyxmmmmmm/shyxmmmmmm/blob/main/certificates/SQL%20Fluency.pdf">
+<img width="80" src="https://img.icons8.com/color/240/database.png"/>
+<br><b>SQL Fluency</b>
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/Shyxmmmmmm/shyxmmmmmm/tree/main/certificates">
+<img width="80" src="https://img.icons8.com/color/240/source-code.png"/>
+<br><b>Full Stack Bootcamp</b>
+</a>
+</td>
+
 </tr>
 </table>
 
+<details>
+<summary>📜 View Additional Certifications</summary>
+
+- DevOps Fluency
+- Generative AI
+- Prompt Engineering
+- Cloud Fundamentals
+- Microsoft Excel
+- Intro to Web Development
+
+</details>
+
 ---
 
-## 📈 GitHub Contribution Graph
+## 📂 Explore More
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shyxmmmmmm&theme=tokyo-night" />
+<a href="https://github.com/shyxmmmmmm?tab=repositories">
+<img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
+```
 
----
-
-## 📂 Explore More Repositories
-
-🔗 GitHub Profile:  
-https://github.com/shyxmmmmmm
-
-🔗 All Repositories:  
-https://github.com/shyxmmmmmm?tab=repositories
 
 ---
 
