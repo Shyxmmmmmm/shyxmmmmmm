@@ -92,6 +92,7 @@
 | Project | Live Demo | Repository |
 |----------|-----------|------------|
 | 🍕 Pizza Palace | [Live](https://pizza-palace-eight.vercel.app/) | [Repo](https://github.com/Shyxmmmmmm/Pizza_Palace.git) |
+| 📝 Student-web-Interface | [Live](https://student-web-interface.vercel.app/) | [Repo](https://github.com/Shyxmmmmmm/Student-web-Interface.git) |
 | 🌦️ Weather App | [Live](https://weather-app-eight-mu-14.vercel.app/) | [Repo](https://github.com/Shyxmmmmmm/weather-app.git) |
 | 🌱 Greenden | [Live](https://shyxmmmmmm.github.io/Greenden-tailwind/) | [Repo](https://github.com/Shyxmmmmmm/Greenden-tailwind.git) |
 | 🛒 Nostra | [Live](https://shyxmmmmmm.github.io/nostra-project/) | [Repo](https://github.com/Shyxmmmmmm/nostra-project.git) |
