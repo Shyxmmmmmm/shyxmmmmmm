@@ -8,11 +8,20 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/shyxmmmmmm">
-    <img src="https://img.shields.io/github/followers/shyxmmmmmm?label=Followers&style=for-the-badge" />
-  </a>
   <a href="https://www.linkedin.com/in/shyam-a-s-6460a3301/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="https://leetcode.com/u/shyaammmmmm/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.geeksforgeeks.org/profile/shyxmmmmmm">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/shyxmmmmmm">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -20,19 +29,13 @@
 
 ## 🚀 About Me
 
-🎓 B.Tech Information & Communication Technology @ SASTRA University
+🎓 B.Tech ICT @ SASTRA University
 
 💼 Incoming Associate Software Engineer @ Accenture
 
-🌱 Full Stack Developer specializing in MERN Stack
+🚀 Full Stack Developer specializing in MERN Stack
 
-🔭 Building scalable web applications using React, Node.js, Express.js and MongoDB
-
-💡 Passionate about Web Development, Cloud Technologies and Problem Solving
-
-📚 Completed Advanced Full Stack Development Bootcamp
-
-☁️ Exploring AWS, Cloud Computing, System Design and Modern Web Technologies
+☁️ Exploring Cloud Computing, AWS & System Design
 
 ---
 
@@ -84,104 +87,46 @@
 
 ---
 
-## 💻 Coding Profiles
+## 🚀 Project Explorer
 
-<p align="left">
-  <a href="https://leetcode.com/u/shyaammmmmm/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
-  </a>
-
-  <a href="https://www.geeksforgeeks.org/profile/shyxmmmmmm">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=for-the-badge&logo=geeksforgeeks" />
-  </a>
-</p>
-
----
-
-## 🔥 Featured Projects
-
-### 🍕 Pizza Palace (MERN Stack)
-
-A Full Stack Food Ordering Application built using modern MERN technologies.
-
-#### Tech Used
-
-React • Node.js • Express.js • MongoDB • Firebase Authentication • Render • Vercel
-
-#### Features
-
-✅ User Authentication
-
-✅ REST APIs
-
-✅ MongoDB Integration
-
-✅ Responsive Design
-
-✅ Full Stack Architecture
-
-🔗 Live Demo: Add Your Live Link
-
-🔗 Repository: Add Repository Link
-
----
-
-### 🌦️ Weather Application
-
-A React-based weather forecasting application using Weather API and Axios.
-
-#### Tech Used
-
-React • Axios • API Integration • CSS
-
-🔗 Live Demo:
-https://weather-app-eight-mu-14.vercel.app/
-
----
-
-### 🌱 Greenden
-
-Responsive Plant Shop Website built using Tailwind CSS.
-
-#### Tech Used
-
-HTML • Tailwind CSS • JavaScript
-
----
-
-### 🛒 Nostra E-Commerce
-
-Modern E-Commerce Frontend Project with responsive design.
-
-#### Tech Used
-
-HTML • CSS • JavaScript • Tailwind CSS
-
----
-
-### 📋 Student Favourite List
-
-React Router + Context API Application.
-
-#### Tech Used
-
-React • React Router • Context API
+| Project | Live Demo | Repository |
+|----------|-----------|------------|
+| 🍕 Pizza Palace | Add Live Link | Add Repo Link |
+| 🌦️ Weather App | [Live](https://weather-app-eight-mu-14.vercel.app/) | [Repo](https://github.com/Shyxmmmmmm/weather-app.git) |
+| 🌱 Greenden | [Live](https://shyxmmmmmm.github.io/Greenden-tailwind/) | [Repo](https://github.com/Shyxmmmmmm/Greenden-tailwind.git) |
+| 🛒 Nostra | [Live](https://shyxmmmmmm.github.io/nostra-project/) | [Repo](https://github.com/Shyxmmmmmm/nostra-project.git) |
+| 📋 Student Favourite List | [Live](https://student-favourite-list-three.vercel.app/) | [Repo](https://github.com/Shyxmmmmmm/student-favourite-list.git) |
+| 📝 Registration Form | [Live](https://shyxmmmmmm.github.io/simple-Registration-form/) | [Repo](https://github.com/Shyxmmmmmm/simple-Registration-form.git) |
 
 ---
 
 ## 🏆 Certifications
 
+<table>
+<tr>
+<td valign="top">
+
 - AWS Cloud Fundamentals
-- AWS Certified Cloud Practitioner
-- AWS Solutions Architecture Job Simulation
-- Full Stack Web Development Bootcamp
+- AWS Cloud Practitioner
+- AWS Solutions Architecture
+- Full Stack Development Bootcamp
 - Java ATCI Stream
 - Python Fluency
+
+</td>
+
+<td valign="top">
+
 - SQL Fluency
 - DevOps Fluency
-- Generative AI Fluency
+- Generative AI
 - Prompt Engineering
-- Microsoft Excel Advanced
+- Microsoft Excel
+- Cloud Fundamentals
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -193,29 +138,30 @@ React • React Router • Context API
 
 ---
 
-## 🌐 Connect With Me
+## 📂 Explore More Repositories
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/shyam-a-s-6460a3301/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
-  </a>
-</p>
+🔗 GitHub Profile:  
+https://github.com/shyxmmmmmm
+
+🔗 All Repositories:  
+https://github.com/shyxmmmmmm?tab=repositories
+
+---
+
+## 🌐 Connect With Me
 
 📧 Email: your-email@example.com
 
-🌍 Location: Tamil Nadu, India
+📍 Tamil Nadu, India
+
+💼 LinkedIn:
+https://www.linkedin.com/in/shyam-a-s-6460a3301/
 
 ---
 
 ## 💬 Developer Quote
 
 > "Consistency beats talent when talent doesn't work hard."
-
----
-
-<p align="center">
-  ⭐ If you like my projects, consider giving them a star!
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=120&section=footer" />
 ```
