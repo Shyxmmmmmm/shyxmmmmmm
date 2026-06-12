@@ -11,16 +11,16 @@
   <a href="https://www.linkedin.com/in/shyam-a-s-6460a3301/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  
+
   <a href="https://leetcode.com/u/shyaammmmmm/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
-  
+
   <a href="https://www.geeksforgeeks.org/profile/shyxmmmmmm">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
 
-  <a href="https://github.com/shyxmmmmmm">
+  <a href="https://github.com/Shyxmmmmmm">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -76,13 +76,13 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shyxmmmmmm&show_icons=true&theme=tokyonight&hide_border=true" />
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyxmmmmmm&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shyxmmmmmm&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shyxmmmmmm&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shyxmmmmmm&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shyxmmmmmm&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -92,12 +92,14 @@
 | Project | Live Demo | Repository |
 |----------|-----------|------------|
 | 🍕 Pizza Palace | [Live](https://pizza-palace-eight.vercel.app/) | [Repo](https://github.com/Shyxmmmmmm/Pizza_Palace.git) |
-| 📝 Student-web-Interface | [Live](https://student-web-interface.vercel.app/) | [Repo](https://github.com/Shyxmmmmmm/Student-web-Interface.git) |
+| 📝 Student Web Interface | [Live](https://student-web-interface.vercel.app/) | [Repo](https://github.com/Shyxmmmmmm/Student-web-Interface.git) |
 | 🌦️ Weather App | [Live](https://weather-app-eight-mu-14.vercel.app/) | [Repo](https://github.com/Shyxmmmmmm/weather-app.git) |
 | 🌱 Greenden | [Live](https://shyxmmmmmm.github.io/Greenden-tailwind/) | [Repo](https://github.com/Shyxmmmmmm/Greenden-tailwind.git) |
 | 🛒 Nostra | [Live](https://shyxmmmmmm.github.io/nostra-project/) | [Repo](https://github.com/Shyxmmmmmm/nostra-project.git) |
 | 📋 Student Favourite List | [Live](https://student-favourite-list-three.vercel.app/) | [Repo](https://github.com/Shyxmmmmmm/student-favourite-list.git) |
+
 ---
+
 ## 🏆 Featured Certifications
 
 <table>
@@ -166,21 +168,25 @@
 
 ---
 
+## 📈 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shyxmmmmmm&theme=tokyo-night" />
+</p>
+
+---
+
 ## 📂 Explore More
 
 <p align="center">
-<a href="https://github.com/shyxmmmmmm?tab=repositories">
+<a href="https://github.com/Shyxmmmmmm?tab=repositories">
 <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
-```
-
 
 ---
 
 ## 🌐 Connect With Me
-
-📧 Email: your-email@example.com
 
 📍 Tamil Nadu, India
 
