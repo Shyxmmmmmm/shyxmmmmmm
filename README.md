@@ -97,8 +97,6 @@
 | 🌱 Greenden | [Live](https://shyxmmmmmm.github.io/Greenden-tailwind/) | [Repo](https://github.com/Shyxmmmmmm/Greenden-tailwind.git) |
 | 🛒 Nostra | [Live](https://shyxmmmmmm.github.io/nostra-project/) | [Repo](https://github.com/Shyxmmmmmm/nostra-project.git) |
 | 📋 Student Favourite List | [Live](https://student-favourite-list-three.vercel.app/) | [Repo](https://github.com/Shyxmmmmmm/student-favourite-list.git) |
-| 📝 Registration Form | [Live](https://shyxmmmmmm.github.io/simple-Registration-form/) | [Repo](https://github.com/Shyxmmmmmm/simple-Registration-form.git) |
-
 ---
 
 ## 🏆 Certifications
