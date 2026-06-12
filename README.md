@@ -1,4 +1,4 @@
-````md
+
 <h1 align="center">Shyam Kumar A S</h1>
 
 <p align="center">
