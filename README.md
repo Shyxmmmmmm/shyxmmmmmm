@@ -201,4 +201,4 @@ https://www.linkedin.com/in/shyam-a-s-6460a3301/
 > "Consistency beats talent when talent doesn't work hard."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=120&section=footer" />
-```
+
