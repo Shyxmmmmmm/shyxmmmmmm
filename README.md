@@ -97,6 +97,7 @@
 | 🌱 Greenden | [Live](https://shyxmmmmmm.github.io/Greenden-tailwind/) | [Repo](https://github.com/Shyxmmmmmm/Greenden-tailwind.git) |
 | 🛒 Nostra | [Live](https://shyxmmmmmm.github.io/nostra-project/) | [Repo](https://github.com/Shyxmmmmmm/nostra-project.git) |
 | 📋 Student Favourite List | [Live](https://student-favourite-list-three.vercel.app/) | [Repo](https://github.com/Shyxmmmmmm/student-favourite-list.git) |
+| Netflix Stream App | [Live](https://stream-app-ruby.vercel.app/) | [Repo(https://github.com/Shyxmmmmmm/StreamApp.git) |
 
 ---
 
