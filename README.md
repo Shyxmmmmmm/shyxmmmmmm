@@ -27,7 +27,7 @@
 
 🎓 B.Tech ICT @ SASTRA University
 
-💼 Incoming Associate Software Engineer @ Accenture
+💼 Associate Software Engineer @ Accenture
 
 🚀 Full Stack Developer specializing in MERN Stack
 
