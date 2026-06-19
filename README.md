@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Shyam Kumar A S</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Developer;React+%7C+Node+%7C+MongoDB;Incoming+Associate+Software+Engineer+@+Accenture&center=true&width=700&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Developer;React+%7CExpress+%7C+Node+%7C+MongoDB;Associate+Software+Engineer+@+Accenture&center=true&width=700&height=50">
 </p>
 
 <p align="center">
