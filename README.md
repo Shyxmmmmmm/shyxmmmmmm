@@ -87,14 +87,15 @@
 ## 🚀 Project Explorer
 
 | Project | Live Demo | Repository |
-|----------|-----------|------------|
+|---------|-----------|------------|
 | 🍕 Pizza Palace | [Live](https://pizza-palace-eight.vercel.app/) | [Repo](https://github.com/Shyxmmmmmm/Pizza_Palace.git) |
-| 📝 Student Web Interface | [Live](https://student-web-interface.vercel.app/) | [Repo](https://github.com/Shyxmmmmmm/Student-web-Interface.git) |
-| 🌦️ Weather App | [Live](https://weather-app-eight-mu-14.vercel.app/) | [Repo](https://github.com/Shyxmmmmmm/weather-app.git) |
-| 🌱 Greenden | [Live](https://shyxmmmmmm.github.io/Greenden-tailwind/) | [Repo](https://github.com/Shyxmmmmmm/Greenden-tailwind.git) |
-| 🛒 Nostra | [Live](https://shyxmmmmmm.github.io/nostra-project/) | [Repo](https://github.com/Shyxmmmmmm/nostra-project.git) |
-| 📋 Student Favourite List | [Live](https://student-favourite-list-three.vercel.app/) | [Repo](https://github.com/Shyxmmmmmm/student-favourite-list.git) |
+| 🌱 Plant Species Classification | Not Available | [Repo](https://github.com/Shyxmmmmmm/Leaf_classification.git) |
+| 🎯 Real-Time Object Detection System | Not Available | [Repo](ADD_OBJECT_DETECTION_REPO_LINK_HERE) |
+| 📝 Student Verse (Student Management Portal) | [Live](https://student-web-interface.vercel.app/) | [Repo](https://github.com/Shyxmmmmmm/Student-web-Interface.git) |
 | 🟥 Netflix Stream App | [Live](https://stream-app-ruby.vercel.app/) | [Repo](https://github.com/Shyxmmmmmm/StreamApp.git) |
+| 🌦️ Weather App | [Live](https://weather-app-eight-mu-14.vercel.app/) | [Repo](https://github.com/Shyxmmmmmm/weather-app.git) |
+| 📋 Student Favourite List | [Live](https://student-favourite-list-three.vercel.app/) | [Repo](https://github.com/Shyxmmmmmm/student-favourite-list.git) |
+
 
 ---
 
