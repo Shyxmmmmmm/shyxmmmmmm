@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=250&section=header&text=Shyam%20Kumar%20A%20S&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20MERN%20Stack%20|%20Incoming%20ASE%20@%20Accenture&descAlignY=58" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=250&section=header&text=Shyam%20Kumar%20A%20S&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20MERN%20Stack%20|ASE%20@%20Accenture&descAlignY=58" />
 
 <h1 align="center">Hi 👋, I'm Shyam Kumar A S</h1>
 
