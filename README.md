@@ -13,7 +13,7 @@
   <a href="https://www.geeksforgeeks.org/profile/shyxmmmmmm">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
-  <a href="https://flux-vanguard.vercel.app/">
+  <a href="https://shyamkumar-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/shyam-a-s-6460a3301/">
